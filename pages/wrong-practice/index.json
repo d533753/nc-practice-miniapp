@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "错题重练",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

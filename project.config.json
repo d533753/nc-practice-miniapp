@@ -1,0 +1,15 @@
+{
+  "projectname": "nc-practice-miniapp",
+  "description": "数控车床考证刷题小程序",
+  "appid": "wxd7dba5a4574db2c7",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

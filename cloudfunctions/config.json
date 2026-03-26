@@ -1,0 +1,21 @@
+{
+  "envId": "nc-practice-4g3aa5yq385cabd5",
+  "version": "2.0",
+  "functions": [
+    {
+      "name": "questions",
+      "handler": "index.main",
+      "runtime": "Nodejs16.13"
+    },
+    {
+      "name": "stats",
+      "handler": "index.main",
+      "runtime": "Nodejs16.13"
+    },
+    {
+      "name": "wrong",
+      "handler": "index.main",
+      "runtime": "Nodejs16.13"
+    }
+  ]
+}

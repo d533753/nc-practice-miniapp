@@ -1,0 +1,9 @@
+{
+  "name": "cloudfunctions",
+  "version": "1.0.0",
+  "description": "云函数",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3",
+    "xlsx": "^0.18.5"
+  }
+}
